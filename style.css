@@ -6,23 +6,31 @@ body {
 header{
   text-align: center;
 }
+
 .menu{
   padding-left: 10px;
   padding-right: 10px;
   background-color: gray;
 }
+
 #featured-property{
   text-align: center;
   font-size: 80%;
 }
+
 p section#featured-property{
   text-align: center;
   width: 800px;
-  background-color: 00000;
 }
-div,h3,p{
+
+#details h3{
   text-align: center;
   float: left;
+}
+#details p{
+  text-align: center;
+  float: left;
+  background-color: red;
 }
 
 
